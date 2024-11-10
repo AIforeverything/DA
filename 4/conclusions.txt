@@ -1,0 +1,7 @@
+Conclusions: 
+1.No null values are present in given dataset. 
+2.There is a typing error at position 228 of df1['Profit (in millions)'] which was corrected.
+3.Exxon Mobil total revenue is 5152459.6 millions which is greater than General Motors. 
+4.Exxon Mobil total profit is 403684.1 millions which is greater than General Motors (248127.3 millions ). 
+5.Exxon Mobil Revenue (in millions) is 442851.0 millions and profit 45220.0 which is millions which is ranked 1 in year 2009. 
+6.Overall Exxon Mobil's ranking as 1 is justifiable.
